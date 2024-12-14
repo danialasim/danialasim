@@ -55,13 +55,13 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+    src="https://streak-stats.demolab.com?user=danialasim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
     height="220" 
-    alt="streak graph"
-    style="margin: 10px; border-radius: 5px;" 
+    alt="streak graph" 
   />
 </div>
+
 
 
