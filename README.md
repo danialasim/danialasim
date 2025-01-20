@@ -56,10 +56,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center"> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danialasim&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danialasim&theme=dark&hide_border=true" alt="danialasim's GitHub Stats" />
 </p>
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialasim&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="danialasim's GitHub Stats" />
+</p>
