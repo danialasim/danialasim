@@ -57,8 +57,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danialasim&theme=dark&hide_border=true" alt="danialasim's GitHub Stats" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danialasim&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="danialasim's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialasim&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="danialasim's GitHub Stats" />
+
 </p>
