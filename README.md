@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danial Asim</h1>
-<h3 align="center">Empowering Solutions with Data, AI, and Innovation</h3>
+<h3 align="center">Empowering Solutions with Data, AI, and Innovation.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=danialasim&label=Profile%20views&color=0e75b6&style=flat" alt="danialasim" /> 
